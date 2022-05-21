@@ -1,4 +1,3 @@
-/home/aditya/Downloads/websocket-push-notification.gif
 ## spring-websocket
 
 The aim of the repository is to understand how websockets can be used to build
@@ -17,7 +16,7 @@ and [daily-code-buffer | Implementing websockets using spring boot](https://www.
    like a push notification
   
 
-![](websockets-push-notification.gif)
+![](websocket-push-notification.gif)
 
 # Next Step
 
